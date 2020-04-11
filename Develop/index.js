@@ -2,7 +2,10 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 const path = require("path");
+<<<<<<< HEAD
 const generateMarkdown = require("./generateMarkdown")
+=======
+>>>>>>> cc8984bbecc5356605ee46e3ce299fbb7b07f658
 
 const questions = [
     {
